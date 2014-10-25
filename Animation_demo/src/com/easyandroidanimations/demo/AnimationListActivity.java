@@ -19,7 +19,7 @@ import android.app.Activity;
  * <p>
  * This activity also implements the required
  * {@link AnimationListFragment.Callbacks} interface to listen for item
- * selections.zzzzz40500
+ * selections.测试一下有没有上传成功
  */
 public class AnimationListActivity extends Activity implements
 		AnimationListFragment.Callbacks {
